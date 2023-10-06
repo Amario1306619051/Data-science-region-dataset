@@ -1,4 +1,3 @@
-```markdown
 # Data Scientist Project - Regional Survey Analysis
 
 This project involves the analysis of a regional survey dataset. We explore various aspects of the data, including demographics, interests, and regional distributions.
